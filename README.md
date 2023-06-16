@@ -12,7 +12,7 @@ Tengo experiencia como profesor en matemáticas e investigador, implementando fu
 
 ¿Quieres saber más de mi? ¡Contáctame !
 
-✔ Linkedin: https://github.com/dalejandroramirez 
+✔ Linkedin: [https://github.com/dalejandroramirez](https://www.linkedin.com/in/daniel-alejandro-ram%C3%ADrez-g%C3%B3mez-704616229/) 
 
 ✔ Email: dalejandro.ramirez.dev@gmail.com
 
