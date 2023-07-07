@@ -8,7 +8,7 @@
 
 Hola! He realizado estudios universitarios de matemáticas y soy Magister en Matemáticas. Actualmente estudio desarrollo web y Ciencia de datos con gran interés en fusionar las tres disciplinas para dar solución a problemas que se presentan en el dia a dia. Me apasiona aprender nuevas tecnologías tanto en el desarrollo web, Análisis de datos y optimización de procesos mediante modelos matemáticos. He manejado tecnologias como: HTML | CSS | JavaScript | Python | NodeJS | React | Redux | Material-UI | Github | GitLab | Git | API.
 
-Tengo experiencia como profesor en matemáticas e investigador, implementando funcionalidades en Python y el lenguaje de programación R. Además desde hace dos años he estado realizando proyectos autónomos en JavaScript, Css, React.
+Tengo experiencia como profesor en matemáticas e investigador, implementando funcionalidades en Python y el lenguaje de programación R. Además desde hace dos años he estado realizando proyectos autónomos en JavaScript, Python Css, React.
 
 ¿Quieres saber más de mi? ¡Contáctame !
 
