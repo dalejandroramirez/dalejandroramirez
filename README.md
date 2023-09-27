@@ -1,6 +1,6 @@
 
 
-### Hello, my name is Alejandro Ramírez Gómez 👋
+### Hello, my name is Alejandro Ramírez Gómez. 👋
 
 
 ![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
